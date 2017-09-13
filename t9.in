@@ -1,0 +1,40 @@
+n a a
+n b b
+n c c
+n d d
+f a
+f b
+
+p a c 0
+w a
+l a
+
+f a
+p b b 0
+w b
+p a b 0
+w a
+
+p d a 0
+w d
+l d
+
+r c c
+r d d
+p d c 0
+w d
+l d
+
+f a
+f b
+p a b 10
+w a
+p a a 10
+w a
+l a
+
+r a a
+r b b
+p b a 3
+w b
+l b

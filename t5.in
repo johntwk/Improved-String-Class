@@ -1,0 +1,18 @@
+n a a
+n b b
+n c c
+n d d
+w a
+w b
+w c
+w d
+m a 0 a
+w a
+p b a 0
+w b
+p b b 1
+w b
+m a 50 a
+w a
+m c 4 a
+w c 

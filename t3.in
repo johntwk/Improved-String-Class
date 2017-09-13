@@ -1,0 +1,38 @@
+n a a
+n b b
+m a 5 a
+w a
+l a
+m b 2 a
+w b
+l b
+
+n c c
+n d d
+p c c 3
+w c
+l c
+p d c 2
+w d
+l d
+
+s a b c
+w a
+l a
+s c c c
+w c
+l c
+r a a
+r b b
+r c c
+r d d
+s c b c
+w c
+l c
+
+t a a pple
+w a
+l a
+t c b anana
+w c
+l c

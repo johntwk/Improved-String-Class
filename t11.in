@@ -1,0 +1,19 @@
+n a a
+n b b
+n c c
+n d d
+f a
+f b
+
+= a a
+w a
+= c c
+w c
+
+= a b
+w a
+l a
+= a d
+w a
+= c d
+w c

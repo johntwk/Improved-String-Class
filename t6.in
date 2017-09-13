@@ -1,0 +1,17 @@
+n a a
+f a
+n b b
+f b
+n c c
+s c a b
+w c
+l c
+
+r a a
+s b a b
+w b
+l b
+
+s a b a
+w a
+l a
